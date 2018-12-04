@@ -24,7 +24,7 @@ Poverty Rate
 High School Graduation Rate
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   The current high school graduation rate of California is 77.4%
+   The current high school graduation rate of California is 77.4%.
    
 Capital
 ~~~~~~~
