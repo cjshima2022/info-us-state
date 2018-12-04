@@ -1,47 +1,20 @@
 Montana
 =======
 
-Population
-~~~~~~~~~~
+* Population: 1.06 million
 
-   The population of Montana is around 1.06 million people.
-
-Senators
-~~~~~~~~
-
-   The senators of Montana are John tester (D) and Steve Daines (R).
+* Senators: John tester (D) and Steve Daines (R)
    
-Number of Counties
-~~~~~~~~~~~~~~~~~~
-
-   The state of Montana has 56 counties.
+* Number of Counties: 56
    
-Poverty Rate
-~~~~~~~~~~~~
-
-   The current poverty rate of Montana is 127,777 or 12.5% of its population.
+* Poverty Rate: 127,777 or 12.5%
    
-High School Graduation Rate
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* High School Graduation Rate: 86.6%
 
-   The current high school graduation rate of Montana is 86.6%.
-
-Capital
-~~~~~~~
-
-   The capital of Montana is Helena.
+* Capital: Helena.
    
-Governor
-~~~~~~~~
-
-   The governor of Montana is Steve Bullock.
+* Governor: Steve Bullock.
    
-Political Party
-~~~~~~~~~~~~~~~
-
-   The current political party of Montana is republican.
+* Political Party: Republican
    
-Tax Rate %
-~~~~~~~~~~
-
-   The tax rate percentage in Montana is currently 6.9%.
+* Tax Rate %: 6.9%
