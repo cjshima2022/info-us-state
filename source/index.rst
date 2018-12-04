@@ -33,7 +33,7 @@ Western States
    western_states/california/california
    western_states/alaska/alaska
    western_states/hawaii/hawaii
-   westerm_states/montana/montana
+   western_states/montana/montana
 
 
 Southern States
