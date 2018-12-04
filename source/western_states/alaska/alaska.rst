@@ -39,9 +39,10 @@ Governor
 Political Party
 ~~~~~~~~~~~~~~~
 
-   The current political party of Alaska is Republican
+   The current political party of Alaska is republican.
    
 Tax Rate %
 ~~~~~~~~~~
 
    The tax rate percentage in Alaska is currently 0%.
+   
