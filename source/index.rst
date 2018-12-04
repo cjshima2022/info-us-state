@@ -6,13 +6,12 @@ INFORMATION ABOUT STATES
    :maxdepth: 2
    :caption: Contents:
 
-   florida/florida
    delaware/delaware
    florida/florida
-   california/california
-   alaska/alaska
-   hawaii/hawaii
-   montana/montana
+   western_states/california/california
+   western_states/alaska/alaska
+   western_states/hawaii/hawaii
+   western_states/montana/montana
    georgia/georgia
    texas/texas
    louisiana/louisiana
