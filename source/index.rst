@@ -6,7 +6,6 @@ Eastern States
 --------------
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    Eastern States/Delaware/delaware
    Eastern States/New Hampshire/new_hampshire
@@ -17,7 +16,6 @@ Midwest States
 --------------
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    Midwest States/Iowa/iowa
    Midwest States/Ohio/ohio
@@ -27,8 +25,7 @@ Midwest States
 Western States
 --------------
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents: 
+   :maxdepth: 2 
 
    western_states/california/california
    western_states/alaska/alaska
@@ -40,7 +37,6 @@ Southern States
 ---------------
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
    
    florida/florida
    georgia/georgia
