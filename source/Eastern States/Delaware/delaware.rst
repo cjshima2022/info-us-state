@@ -1,6 +1,9 @@
 Delaware
---------
-* Population: 971,180
+========
+Population
+----------
+The Delaware population is 971,180
+
 * Senators: Tom Carper and Chris Coons
 * Number of Counties: 3 Counties 
 * Poverty Rate: 13.6% below poverty line
