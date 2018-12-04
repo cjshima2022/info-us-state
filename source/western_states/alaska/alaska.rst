@@ -4,27 +4,27 @@ Alaska
 Population
 ~~~~~~~~~~
 
-The population of Alaska is around 738,068 people.
+   The population of Alaska is around 738,068 people.
 
 Senators
 ~~~~~~~~
 
-The senators of Alaska are Lisa Murkowski (R) and Dan Sullivan.
+   The senators of Alaska are Lisa Murkowski (R) and Dan Sullivan.
    
 Number of Counties
 ~~~~~~~~~~~~~~~~~~
 
-The state of Alaska has 19 counties.
+   The state of Alaska has 19 counties.
    
 Poverty Rate
 ~~~~~~~~~~~~
 
-The current poverty rate of Alaska is 7,926 or 9% of its population.
+   The current poverty rate of Alaska is 7,926 or 9% of its population.
    
 High School Graduation Rate
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The current high school graduation rate of Alaska is 69.4%
+   The current high school graduation rate of Alaska is 69.4%.
 
 Capital
 ~~~~~~~

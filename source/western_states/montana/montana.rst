@@ -4,24 +4,44 @@ Montana
 Population
 ~~~~~~~~~~
 
-The population of California is around 39 million people.
+   The population of Montana is around 1.06 million people.
 
 Senators
 ~~~~~~~~
 
-The senators of California are Dianne Feinstein (D) and Kamala Harris (D).
+   The senators of Montana are John tester (D) and Steve Daines (R).
    
 Number of Counties
 ~~~~~~~~~~~~~~~~~~
 
-The state of California has 58 counties.
+   The state of Montana has 56 counties.
    
 Poverty Rate
 ~~~~~~~~~~~~
 
-The current poverty rate of California is 7.5 million or 19% of its population.
+   The current poverty rate of Montana is 127,777 or 12.5% of its population.
    
 High School Graduation Rate
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The current high school graduation rate of California is 77.4%
+   The current high school graduation rate of Montana is 86.6%.
+
+Capital
+~~~~~~~
+
+   The capital of Montana is Helena.
+   
+Governor
+~~~~~~~~
+
+   The governor of Montana is Steve Bullock.
+   
+Political Party
+~~~~~~~~~~~~~~~
+
+   The current political party of Montana is republican.
+   
+Tax Rate %
+~~~~~~~~~~
+
+   The tax rate percentage in Montana is currently 6.9%.

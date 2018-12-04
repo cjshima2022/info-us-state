@@ -4,27 +4,27 @@ Hawaii
 Population
 ~~~~~~~~~~
 
-The population of Hawaii is around 1.428 million people.
+   The population of Hawaii is around 1.428 million people.
 
 Senators
 ~~~~~~~~
 
-The senators of Hawaii are Mazie Hirono (D) and Brian Schatz (D).
+   The senators of Hawaii are Mazie Hirono (D) and Brian Schatz (D).
    
 Number of Counties
 ~~~~~~~~~~~~~~~~~~
 
-The state of Hawaii has 5 counties.
+   The state of Hawaii has 5 counties.
    
 Poverty Rate
 ~~~~~~~~~~~~
 
-The current poverty rate of Hawaii is 10.9% of its population.
+   The current poverty rate of Hawaii is 10.9% of its population.
    
 High School Graduation Rate
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The current high school graduation rate of Hawaii is 82.7%
+   The current high school graduation rate of Hawaii is 82.7%.
 
 Capital
 ~~~~~~~
