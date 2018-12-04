@@ -12,4 +12,8 @@ INFORMATION ABOUT STATES
    alaska/alaska
    hawaii/hawaii
    montana/montana
+   georgia/georgia
+   texas/texas
+   louisiana/louisiana
+   
 
