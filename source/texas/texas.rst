@@ -1,3 +1,0 @@
-Texas
-=====
-Welcome to Texas
