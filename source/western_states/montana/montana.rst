@@ -1,20 +1,31 @@
 Montana
 =======
+History
+-------
+*
 
-* Population: 1.06 million
+ .. figure:: montana.jpg
+    :width: 60%
 
-* Senators: John tester (D) and Steve Daines (R)
-   
-* Number of Counties: 56
-   
-* Poverty Rate: 127,777 or 12.5%
-   
-* High School Graduation Rate: 86.6%
+    https://www.50states.com/flag/mtflag.htm
+ 
+Interesting Facts
+-----------------
+*
 
-* Capital: Helena.
-   
-* Governor: Steve Bullock.
-   
-* Political Party: Republican
-   
-* Tax Rate %: 6.9%
+Overview
+---------
+
+============== ====================================
+Facts           Answers
+============== ====================================
+Population      1.06 million
+Senators        John Tester and Steve Daines
+Counties        56
+Poverty Rate    127,777 or 12.5%
+Graduation      86.6%
+Capital         Helena
+Governor        Steve Bullock
+Party           Republican
+Tax Rate        6.9%
+============== ====================================
