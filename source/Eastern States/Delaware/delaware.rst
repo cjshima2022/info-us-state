@@ -11,14 +11,14 @@ History
 
 
  .. figure:: delaware.jpg
-    :width: 50%
+    :width: 60%
 
     https://www.usaflagco.com/products/delaware-flag  
  
 Interesting Facts
 -----------------
-* According to legend, Delaware was nicknamed "The Diamond State"
-  because Thomas Jefferson referred to it as a "Jewel among the states"
+* According to legend, Delaware was nicknamed *"The Diamond State"*
+  because Thomas Jefferson referred to it as a *"Jewel among the states"*
   due to its prime location on the Easter Seaboard.
 
 Overview

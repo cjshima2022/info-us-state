@@ -41,10 +41,10 @@ Southern States
    :maxdepth: 2
    :caption: Contents:
    
-   florida/florida
-   georgia/georgia
-   texas/texas
-   louisiana/louisiana
+   Southern States/florida/florida
+   Southern States/georgia/georgia
+   Southern States/texas/texas
+   Southern States/louisiana/louisiana
    
 
 
