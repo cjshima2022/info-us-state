@@ -12,7 +12,7 @@ California
 * High School Graduation Rate: 77.4% 
   
 * Capital: Sacramento  
- 
+  
 * Governor: Jerry Brown
 
 * Political Party: Democratic  
