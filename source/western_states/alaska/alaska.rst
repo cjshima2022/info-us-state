@@ -1,48 +1,21 @@
 Alaska
 ======
 
-Population
-~~~~~~~~~~
+* Population: 738,068 people
 
-   The population of Alaska is around 738,068 people.
-
-Senators
-~~~~~~~~
-
-   The senators of Alaska are Lisa Murkowski (R) and Dan Sullivan.
+* Senators: Lisa Murkowski (R) and Dan Sullivan
    
-Number of Counties
-~~~~~~~~~~~~~~~~~~
-
-   The state of Alaska has 19 counties.
+* Number of Counties: 19
    
-Poverty Rate
-~~~~~~~~~~~~
-
-   The current poverty rate of Alaska is 7,926 or 9% of its population.
+* Poverty Rate: 7,926 or 9%
    
-High School Graduation Rate
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* High School Graduation Rate: 69.4%
 
-   The current high school graduation rate of Alaska is 69.4%.
-
-Capital
-~~~~~~~
-
-   The capital of Alaska is Juneau.
+* Capital: Juneau.
    
-Governor
-~~~~~~~~
-
-   The governor of Alaska is Bill Walker.
+* Governor: Bill Walker.
    
-Political Party
-~~~~~~~~~~~~~~~
-
-   The current political party of Alaska is republican.
+* Political Party: Republican.
    
-Tax Rate %
-~~~~~~~~~~
-
-   The tax rate percentage in Alaska is currently 0%.
+* Tax Rate %: 0%
    

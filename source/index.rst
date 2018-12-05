@@ -13,6 +13,16 @@ Eastern States
    Eastern States/New York/new_york
    Eastern States/Maine/maine
 
+Midwest States
+--------------
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Midwest States/Iowa/iowa
+   Midwest States/Ohio/ohio
+   Midwest States/Kansas/kansas
+   Midwest States/Minnesota/minnesota
 
 Western States
 --------------
@@ -30,7 +40,7 @@ Southern States
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   
    florida/florida
    georgia/georgia
    texas/texas
