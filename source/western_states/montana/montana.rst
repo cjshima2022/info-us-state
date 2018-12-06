@@ -2,7 +2,10 @@ Montana
 =======
 History
 -------
-*
+* Montana became a state on November 8, 1889.
+  It is home to the historical battle
+  between the Sioux tribe and the U.S. Army.
+  This battle is known as "Custer's Last Stand.
 
 
  .. figure:: montana.jpg
@@ -12,7 +15,25 @@ History
  
 Interesting Facts
 -----------------
-*
+* Montana is the fourth largest state. It is behind
+  Alaska, Texas and California.
+  
+* This state is one of the country's least desnsely
+  populated states.
+  
+* Montana has the lowest elevation out of all the 
+  other Rocky Mountain states with only and 
+  elevation of 3,400 feet.
+  
+* Montana is home to the first national park 
+  established in the United States located
+  in southern Montana known as Yellowstone
+  National Park.
+  
+* Eleven tribal nations live on seven different
+  Indian reservations in Montana. There is a 
+  twelfth tribe that lives within the state
+  with no land of their own.
 
 Overview
 ---------
