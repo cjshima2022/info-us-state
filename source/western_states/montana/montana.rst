@@ -7,10 +7,8 @@ History
   between the Sioux tribe and the U.S. Army.
   This battle is known as "Custer's Last Stand.
   
-  *Click the link below for a video on the History
-  of Montana.*
-  
-  https://www.youtube.com/watch?v=kh4u0DA7KaY
+  *Click the link below for a video on the* `History
+  of Montana. <https://www.youtube.com/watch?v=kh4u0DA7KaY>`_
 
 
  .. figure:: montana.jpg

@@ -7,10 +7,8 @@ History
   It is now the third largest state in the United
   States behind Alaska and Texas.
   
-  *Click the link below for a video on the History
-  of California.*
-  
-  https://www.youtube.com/watch?v=RCMnnJY7dEI
+  *Click the link below for a video on the* `History
+  of California. <https://www.youtube.com/watch?v=RCMnnJY7dEI>`_
 
 
  .. figure:: california.jpg

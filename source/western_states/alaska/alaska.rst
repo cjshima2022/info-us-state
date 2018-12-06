@@ -7,10 +7,8 @@ History
   The territory was bought from the Russians
   and acquired in *1867*.
   
-  *Click the link below for a video on the History
-  of Alaska.*
-  
-  https://www.youtube.com/watch?v=RqbAPOb8YaI
+  *Click the link below for a video on the* `History
+  of Alaska. <https://www.youtube.com/watch?v=RqbAPOb8YaI>`_
 
 
  .. figure:: alaska.jpg
