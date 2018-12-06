@@ -1,7 +1,7 @@
 Sources
 =======
 
-<!-- History.com, A&E Television Networks, www.history.com/topics/us-states/alaska.
+History.com, A&E Television Networks, www.history.com/topics/us-states/alaska.
 
 History.com, A&E Television Networks, www.history.com/topics/us-states/california.
 
@@ -89,5 +89,5 @@ Dunn, Jennifer, and Jenn. “California State Sales Tax 2018: What You Need to Kno
     
 Vorsino, Mary. “Census: 1 in 6 Hawaii Residents Live in Poverty.” Home - Hawaii News Now - 
     KGMB and KHNL, 14 Sept. 2016, www.hawaiinewsnow.com/story/33087891/census-1-in-6-
-    hawaii-residents-live-in-poverty/. -->
+    hawaii-residents-live-in-poverty/.
     
