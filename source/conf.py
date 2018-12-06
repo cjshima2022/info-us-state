@@ -80,9 +80,12 @@ html_theme = 'classic'
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-# html_theme_options = {
-        "rightsidebar": "true",
-        "relbarbgcolor": "black"
+html_theme_options = {
+   "stickysidebar": "true",
+   "relbarbgcolor": "black",
+   "sidebarbgcolor": "white",
+   "sidebartextcolor": "black",
+   "sidebarlinkcolor": "black"
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
