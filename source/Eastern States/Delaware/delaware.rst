@@ -32,7 +32,7 @@ Senators        Tom Carper and Chris Coons
 Counties        New Castle, Kent, and Sussex
 Poverty Rate    13.6%
 Graduation      70.4%
-capital         Dover
+Capital         Dover
 Governor        John Carney
 Party           Democratic
 Tax Rate        0%
