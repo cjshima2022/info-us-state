@@ -34,6 +34,7 @@ Western States
    western_states/alaska/alaska
    western_states/hawaii/hawaii
    western_states/montana/montana
+   western_states/sources/citations
 
 Southern States
 ---------------
