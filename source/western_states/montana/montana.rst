@@ -6,6 +6,11 @@ History
   It is home to the historical battle
   between the Sioux tribe and the U.S. Army.
   This battle is known as "Custer's Last Stand.
+  
+  *Click the link below for a video on the History
+  of Montana.*
+  
+  https://www.youtube.com/watch?v=kh4u0DA7KaY
 
 
  .. figure:: montana.jpg

@@ -7,7 +7,12 @@ History
   50th state in *1959*. Hawaii is home to Pearl
   Harbor which was bombed by the Japanese on
   December 7th, *1941* as a surprise attack.
-
+  
+  *Click the link below for a video on the History
+  of Hawaii.*
+  
+  https://www.youtube.com/watch?v=1SERJhAvlzY
+  
 
  .. figure:: hawaii.jpg
     :width: 60%

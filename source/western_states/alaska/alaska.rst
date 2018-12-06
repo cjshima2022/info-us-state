@@ -6,6 +6,11 @@ History
   and is the largest state of the United States.
   The territory was bought from the Russians
   and acquired in *1867*.
+  
+  *Click the link below for a video on the History
+  of Alaska.*
+  
+  https://www.youtube.com/watch?v=RqbAPOb8YaI
 
 
  .. figure:: alaska.jpg

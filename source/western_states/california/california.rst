@@ -6,6 +6,11 @@ History
   *1847*. In *1850* California became the 31st state.
   It is now the third largest state in the United
   States behind Alaska and Texas.
+  
+  *Click the link below for a video on the History
+  of Alaska.*
+  
+  https://www.youtube.com/watch?v=RCMnnJY7dEI
 
 
  .. figure:: california.jpg
