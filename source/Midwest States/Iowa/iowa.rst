@@ -20,16 +20,16 @@ the new capital in 1857 because it was more central then iowa city
 Overview
 ---------
 
-============== ====================================
-Facts           Answers
-============== ====================================
-Population      3.146 Million
-Senators        Chuck Grassley(D) and Joni Ernst(D)
-Counties        99
-Poverty Rate    11.8 Percent or 371,228 people
-Graduation rate 93 Percent
-Capital         Des Moines
-Governor        Kim Reynolds
-Political Party Slightly Republician
-Tax Rate        6.8 Percent
-============== ====================================
+================= ====================================
+Facts              Answers
+================= ====================================
+Population         3.146 Million
+Senators           Chuck Grassley(D) and Joni Ernst(D)
+Counties           99
+Poverty Rate       11.8 Percent or 371,228 people
+Graduation rate    93 Percent
+Capital            Des Moines
+Governor           Kim Reynolds
+Political Party    Slightly Republician
+Tax Rate           6.8 Percent
+================= ====================================
