@@ -12,6 +12,7 @@ Eastern States
    Eastern States/New Hampshire/new_hampshire
    Eastern States/New York/new_york
    Eastern States/Maine/maine
+   Eastern States/Sources/sources
 
 Midwest States
 --------------
