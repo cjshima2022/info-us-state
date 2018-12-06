@@ -81,7 +81,8 @@ Dunn, Jennifer, and Jenn. "California State Sales Tax 2018: What You Need to Kno
     
 "Montana Report - 2018." Talk Poverty, talkpoverty.org/state-year-report/montana-2018-report/.
 
-"Sacramento, California." Wikipedia, Wikimedia Foundation, 5 Dec. 2018, en.wikipedia.org/wiki/Sacramento,_California.
+"Sacramento, California." Wikipedia, Wikimedia Foundation, 5 Dec. 2018, en.wikipedia.org/wiki/
+    Sacramento,_California.
     
 "U.S. Census Bureau QuickFacts: Hawaii." Census Bureau QuickFacts, United States Census Bureau, 
     www.census.gov/quickfacts/hi.
