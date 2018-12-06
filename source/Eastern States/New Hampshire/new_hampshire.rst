@@ -8,17 +8,19 @@ History
   became an state on 06/21/1788.
 
 
+ *Click the link below* `History of New Hampshire <https://www.youtube.com/watch?v=V5kq_BHD2m0>`_
+
  .. figure:: image.jpg
  	:width: 60%
 
- 	http://rlv.zcache.com/new_hampshire_nh_motto_live_free_or_die_postcard-r956eb9dca4cd4f33a2d29d0b606bef91_vgbaq_8byvr_512.jpg
+ 	Click on the image from `zcache <http://rlv.zcache.com/new_hampshire_nh_motto_live_free_or_die_postcard-r956eb9dca4cd4f33a2d29d0b606bef91_vgbaq_8byvr_512.jpg>`_
 
 Interesting Facts
 -----------------
 * New Hampshire was the first to declare its independence of the 13 original 
   colonies 6 months before the
   declaration of independence was signed.
-* New Hampshire has taken their motto *"Live free of Die"* seriously 
+* New Hampshire has taken their motto *"Live free or Die"* seriously 
   since it is the only state which doesn't 
   require seatbelt or motorcycle helmets.
 * The first legal lottery was launched in 1963 in New Hampshire.

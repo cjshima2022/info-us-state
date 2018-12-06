@@ -6,6 +6,9 @@ History
   *1847*. In *1850* California became the 31st state.
   It is now the third largest state in the United
   States behind Alaska and Texas.
+  
+  *Click the link below for a video on the* `History
+  of California. <https://www.youtube.com/watch?v=RCMnnJY7dEI>`_
 
 
  .. figure:: california.jpg
@@ -15,18 +18,18 @@ History
  
 Interesting Facts
 -----------------
-* California is home to Hollywood, Disneyland, 
-  Yosemite National Park, Alcatraz, Angel Island
-  and the Golden Gate Bridge.
+* California is home to **Hollywood**, **Disneyland**, 
+  **Yosemite National Park**, **Alcatraz**, **Angel Island**
+  and the **Golden Gate Bridge**.
   
 * Miners extracted 28,280,711 ounces of gold from
   *1850* to *1859*.
   
 * California contains the lowest point in the US
-  known as Death Valley it is 282 feet below sea
+  known as **Death Valley** it is 282 feet below sea
   level.
   
-* Death Valley reaches temperatures greater than 
+* **Death Valley** reaches temperatures greater than 
   120 degrees Fahrenheit in the summer and only
   gets around two inches of rain.
   

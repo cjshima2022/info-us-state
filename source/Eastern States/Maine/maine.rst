@@ -4,20 +4,22 @@ History
 -------
 * Maine and New Hampshire was found by **Sir Ferdinando and Captain John Mason.** 
   However they divided Maine and New Hampshire in half. Maine became a state 
-  on March 15, 1820, under the Missouri Compromise, which allowed Maine to be 
-  free state otherwise Maine was a district of Massachusetts. 
+  on **March 15, 1820**, under the Missouri Compromise, which allowed Maine to 
+  be free state otherwise Maine was a district of Massachusetts. 
+
+  *Click the link to view the* `history of Maine <https://www.youtube.com/watch?v=EPK6HG5oKaM>`_
 
  .. figure:: maine.jpg
  	:width: 60%
 
- 	https://www.united-states-flag.com/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/m/a/maine.jpg
+ 	Images from `United States Flag <https://www.united-states-flag.com/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/m/a/maine.jpg>`_
 
 Interesting Facts
 -----------------
 * Maine is the only state state in the United States whose name has one syllable.
-* Maine has 3,478 miles of Coastline
-* Maine has 3,166 off-shore island.
-* Maine has 6,000 Lakes and Ponds.
+* Maine has *3,478* miles of Coastline
+* Maine has *3,166* off-shore island.
+* Maine has *6,000* Lakes and Ponds.
 * Maine state bird name is *The Chickadee*
 * Maine state tree is *The White Pine*
 * Maine state fish is *Landlocked Salmon*
