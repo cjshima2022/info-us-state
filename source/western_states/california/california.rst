@@ -3,7 +3,7 @@ California
 History
 -------
 * California didn't become US territory until
-  1847. In 1850 California became the 31st state.
+  *1847*. In *1850* California became the 31st state.
   It is now the third largest state in the United
   States behind Alaska and Texas.
 
@@ -20,7 +20,7 @@ Interesting Facts
   and the Golden Gate Bridge.
   
 * Miners extracted 28,280,711 ounces of gold from
-  1850 to 1859.
+  *1850* to *1859*.
   
 * California contains the lowest point in the US
   known as Death Valley it is 282 feet below sea

@@ -3,10 +3,10 @@ Hawaii
 History
 -------
 * The United States acquired Hawaii as U.S.
-  territory in 1900. Hawaii later became the
-  50th state in 1959. Hawaii is home to Pearl
+  territory in *1900*. Hawaii later became the
+  50th state in *1959*. Hawaii is home to Pearl
   Harbor which was bombed by the Japanese on
-  December 7th, 1941 as a surprise attack.
+  December 7th, *1941* as a surprise attack.
 
 
  .. figure:: hawaii.jpg

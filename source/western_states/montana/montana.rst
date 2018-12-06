@@ -2,7 +2,7 @@ Montana
 =======
 History
 -------
-* Montana became a state on November 8, 1889.
+* Montana became a state on November 8, *1889*.
   It is home to the historical battle
   between the Sioux tribe and the U.S. Army.
   This battle is known as "Custer's Last Stand.
