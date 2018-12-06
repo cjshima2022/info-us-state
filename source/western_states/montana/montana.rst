@@ -22,13 +22,13 @@ Interesting Facts
   populated states.
   
 * Montana has the lowest elevation out of all the 
-  other Rocky Mountain states with only and 
+  other **Rocky Mountain** states with only and 
   elevation of 3,400 feet.
   
 * Montana is home to the first national park 
   established in the United States located
-  in southern Montana known as Yellowstone
-  National Park.
+  in southern Montana known as **Yellowstone
+  National Park**.
   
 * Eleven tribal nations live on seven different
   Indian reservations in Montana. There is a 

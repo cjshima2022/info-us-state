@@ -16,11 +16,11 @@ History
  
 Interesting Facts
 -----------------
-* Mount Waialeale on Kauai is one of the 
+* **Mount Waialeale** on **Kauai** is one of the 
   wettest places on earth receiving around
   460 inches of rain a year.
   
-* Mauna Kea is Hawaii's tallest volcano which
+* **Mauna Kea** is Hawaii's tallest volcano which
   stands 13,796 feet above sea level and is 
   known as the tallest mountain in the world
   starting from below the surface of the water.
@@ -29,7 +29,7 @@ Interesting Facts
 * Hawaii's population center is the most isolated
   on Earth.
   
-* The nickname for Hawaii is the Aloha State. 
+* The nickname for Hawaii is the **Aloha State**. 
 
 Overview
 ---------

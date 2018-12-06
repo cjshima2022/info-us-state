@@ -24,11 +24,11 @@ Interesting Facts
 
 * Alaska has 17 of the 20 highest peaks in the
   United States. The tallest mountain in North
-  America is Mt. McKinley in Alaska.
+  America is **Mt. McKinley** in Alaska.
   
 * Home to the most powerful volcanic explosion
   of the 20th century in *1912*. The volcano is
-  called Novarupta.
+  called **Novarupta**.
   
 * Alaska has been home to people since 10,000
   BCE. Back then there was a land bridge that 
