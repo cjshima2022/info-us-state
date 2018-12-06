@@ -4,6 +4,7 @@ History
 -------
 *
 
+
  .. figure:: hawaii.jpg
     :width: 60%
 

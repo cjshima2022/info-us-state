@@ -4,6 +4,7 @@ History
 -------
 *
 
+
  .. figure:: montana.jpg
     :width: 60%
 

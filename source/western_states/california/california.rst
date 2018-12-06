@@ -4,6 +4,7 @@ History
 -------
 *
 
+
  .. figure:: california.jpg
     :width: 60%
 
