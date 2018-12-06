@@ -3,10 +3,13 @@ Hawaii
 History
 -------
 * The United States acquired Hawaii as U.S.
-  territory in 1900. Hawaii later became the
-  50th state in 1959. Hawaii is home to Pearl
+  territory in *1900*. Hawaii later became the
+  50th state in *1959*. Hawaii is home to Pearl
   Harbor which was bombed by the Japanese on
-  December 7th, 1941 as a surprise attack.
+  December 7th, *1941* as a surprise attack.
+  
+  *Click the link for a video on the* `History
+  of Hawaii. <https://www.youtube.com/watch?v=1SERJhAvlzY>`_
 
 
  .. figure:: hawaii.jpg
@@ -16,11 +19,11 @@ History
  
 Interesting Facts
 -----------------
-* Mount Waialeale on Kauai is one of the 
+* **Mount Waialeale** on **Kauai** is one of the 
   wettest places on earth receiving around
   460 inches of rain a year.
   
-* Mauna Kea is Hawaii's tallest volcano which
+* **Mauna Kea** is Hawaii's tallest volcano which
   stands 13,796 feet above sea level and is 
   known as the tallest mountain in the world
   starting from below the surface of the water.
@@ -29,7 +32,7 @@ Interesting Facts
 * Hawaii's population center is the most isolated
   on Earth.
   
-* The nickname for Hawaii is the Aloha State. 
+* The nickname for Hawaii is the **Aloha State**. 
 
 Overview
 ---------
