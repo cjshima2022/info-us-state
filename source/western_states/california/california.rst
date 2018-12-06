@@ -8,7 +8,7 @@ History
   States behind Alaska and Texas.
   
   *Click the link below for a video on the History
-  of Alaska.*
+  of California.*
   
   https://www.youtube.com/watch?v=RCMnnJY7dEI
 
