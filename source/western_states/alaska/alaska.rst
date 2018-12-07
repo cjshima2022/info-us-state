@@ -36,6 +36,17 @@ Interesting Facts
 * Alaska has been home to people since 10,000
   BCE. Back then there was a land bridge that 
   people migrated across when following animals.
+  
+* The size of Alaska is 664,988 square miles.
+
+* The motto for Alaska is North to the Future.
+
+* The state tree for Alaska is the **Sitka Spruce**.
+
+* The state flower for Alaska is the **Forget-me-not**
+  flower.
+  
+* The state bird for Alaska is the **Willow Ptarmigan**.
 
 Overview
 ---------

@@ -36,6 +36,14 @@ Interesting Facts
 * In Southern California there are around 10,000
   earthquakes each year. Only 0.2% of these 
   earthquakes have a magnitude greater than 4.0.
+  
+* The state bird for California is the **California
+  Valley Quail**.
+  
+* The state flower for California is the **Poppy**.
+
+* The state tree for California is the **California
+  Redwood**.
 
 Overview
 ---------

@@ -37,6 +37,17 @@ Interesting Facts
   Indian reservations in Montana. There is a 
   twelfth tribe that lives within the state
   with no land of their own.
+  
+* The size of Montana is 147,039 square miles.
+
+* The motto for Montana is "Gold and Silver".
+
+* The state tree for Montana is the **Ponderosa Pine**.
+
+* The state flower for Montana is the **Bitterroot**.
+
+* The state bird for Montana is the **Western Meadow
+  Lark**.
 
 Overview
 ---------
