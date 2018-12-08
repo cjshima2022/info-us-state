@@ -28,6 +28,15 @@ Interesting Facts
 * The Lady Bug is Delaware's official state bug.
 * The 87-foot Fenwick Island Lighthouse was painted in 1880 for a total cost of 
   $5.00. 
+* Thomas Garret lost his entire fortune in his battle against slavery. He was 
+  sued by Maryland slave owner and fined for aiding a black family in flight.
+  Over his lifetime, Garrett reported helped more than 2,000 fugitive slaves
+  move through Delaware, an important stop on the Underground Railroad. 
+* The Delaware Indians were one of the most advanced tribes of the eastern 
+  United States. 
+* The town of Milton was named after the English poet John Milton in 1807.
+* New Castle County includes the largest population and smallest area of 
+  Delaware's three county's. 
 
 Overview
 ---------
