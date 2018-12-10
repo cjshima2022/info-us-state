@@ -1,6 +1,9 @@
 Iowa
 ==========
 
+ .. figure:: iowa.jpg
+    :width: 70%
+
 Interesting Facts
 -----------------
 * Iowa is the only state in the united states that has two of it's borders covered by rivers

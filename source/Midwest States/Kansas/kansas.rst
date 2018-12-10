@@ -1,6 +1,9 @@
 Kansas
 ==========
 
+ .. figure:: kansas.jpg
+    :width: 70%
+
 Interesting Facts
 -----------------
 
