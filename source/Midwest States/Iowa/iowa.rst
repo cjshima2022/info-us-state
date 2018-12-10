@@ -1,7 +1,7 @@
 Iowa
 ==========
 
- .. figure:: iowa.jpg
+ .. figure:: iowa.png
     :width: 70%
 
 Interesting Facts
