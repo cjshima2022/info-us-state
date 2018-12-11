@@ -1,7 +1,7 @@
 Minnesota
 ===============
 
- .. figure:: minnesota.png
+ .. image:: minnesota.png
     :width: 70%
 
 Interesting Facts
