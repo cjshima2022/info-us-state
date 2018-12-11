@@ -4,26 +4,28 @@ Sources
 Iowa
 --------
 
-"25 Amazing Facts About Iowa." Mental Floss, 25 Nov. 2015,
+ "25 Amazing Facts About Iowa." Mental Floss, 25 Nov. 2015,
  mentalfloss.com/article/71550/25-amazing-facts-about-iowa. 
  Accessed 10 Dec. 2018.
 
-Editors, History. "Iowa." A & E television, 21 Aug. 2018, 
+ Editors, History. "Iowa." A & E television, 21 Aug. 2018, 
  www.history.com/topics/us-states/iowa.
 
-"Iowa - History." Encyclopedia Britannica, Britannica, 3 Sept. 2018, 
+ "Iowa - History." Encyclopedia Britannica, Britannica, 3 Sept.  
+ 2018, 
  www.britannica.com/place/Iowa-state/History. Accessed 10 Dec. 2018.
 
-"IOWA - over 25 Interesting Key Facts." U.S. STATE FACTS - 
+ "IOWA - over 25 Interesting Key Facts." U.S. STATE FACTS - 
  a List of Interesting Key Facts, 11 Nov. 2017, 
  us-state-facts.com/US-State-Facts-Midwest-Region/US-State-Facts-Iowa.html.
 
-"Iowa | State Facts and History." InfoPlease, 13 Feb. 2017,
+ "Iowa | State Facts and History." InfoPlease, 13 Feb. 2017,
  www.infoplease.com/us/states/iowa. Accessed 9 Dec. 2018.
 
 Minnesota
 -------------
-"New Hampshire Population 2018.” Total Population by Country 2018, 
+ "New Hampshire Population 2018.” Total Population by Country 
+ 2018, 
  worldpopulationreview.com/states/new-hampshire-population/. 
 
  "Sales Tax Calculator of New Hampshire for 2018.” Sales Tax States, 
@@ -40,7 +42,7 @@ Ohio
 -----
  "45 Ohio Facts They Never Taught You In School - Movoto.
  " Movoto Real Estate, 22 Dec. 2017, www.movoto.com/guide/oh/ohio-facts/.
-  Accessed 10 Dec. 2018.
+ Accessed 10 Dec. 2018.
 
  Editors, History.com. "Ohio." HISTORY, 21 Aug. 2018,
  www.history.com/topics/us-states/ohio.
@@ -73,5 +75,5 @@ Kansas
  Accessed 10 Dec. 2018.
 
  "Kansas: Map, History, Population, Facts, Capitol, Flag, Tree,
- Geography, Symbols." InfoPlease, 13 Feb. 2017,
+  Geography, Symbols." InfoPlease, 13 Feb. 2017,
   www.infoplease.com/us/states/kansas.
