@@ -25,7 +25,8 @@ History of Minnesota
 
 * Minnesota became the 32nd state of the union on May 11, 1858.
 
-* The Minnesota state fair was constantly being debated over which city to put it in.
+* The Minnesota state fair was constantly being debated over 
+  which city to put it in.
   In 1878 Minneapolis created a second fair at the same time the state fair was going on in
   St. Paul becasue they thought they should host it after having a successful year last year.
 
