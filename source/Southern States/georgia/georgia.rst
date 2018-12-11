@@ -2,7 +2,8 @@ Georgia
 =======
 History
 -------
-Georgia was found by James Oglethorpe. Apart of the 13 colonies, it became a state of the U.S in 1788. 
+Georgia was found by James Oglethorpe. Apart of the 13 colonies,
+it became a state of the U.S in 1788. 
 
 
  .. figure:: ga-largeflag.png
@@ -16,9 +17,9 @@ Interesting Facts
 
 * Georgia is the largest state east of the Mississippi River
 
-*There are 350 species of birds in Georgia
+* There are 350 species of birds in Georgia
 
- Overview
+Overview
 ---------
 
 ============== ====================================
