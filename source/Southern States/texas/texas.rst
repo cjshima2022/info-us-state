@@ -20,7 +20,26 @@ Interesting Facts
   miles of highway in Texas. 
 
 * Texas also holds over 17 million cattle and holds 
-  the most bat species found among states. 
+  the most bat species found among states.
+
+* The size of Texas is 268,597 square miles.
+
+* The state bird of Texas is the Mockingbird.
+
+* The state motto of Texas is Friendship
+
+* The State flower is the Bluebonnet
+
+* The state tree of Texas is the Pecan tree 
+
+* While traveling through Dallas in an open convertible on November 22, 1963, 
+  President John F. Kennedy was shot and killed by Lee Harvey Oswald.
+  
+* Texas is home to the Alamo 
+
+* On September 8, 1900, a Category 4 hurricane with winds up to 130 miles per hour pummeled Galveston, 
+  Texas, killing more than 8,000 people and destroying the once-thriving city. 
+  It remains the deadliest natural disaster in United States history.
 
 Overview
 ---------

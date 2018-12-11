@@ -18,6 +18,27 @@ Interesting Facts
 
 * Florida is home to the deepest freshwater spring, the Wakulla Springs
 
+* Walt Disney World Resort, which opened near in 1971, 
+  is the planet's biggest and most visited recreational resort.
+  
+* The state of Florida is known as the Sunshine State. 
+
+* The state tree of Florida is the Sabal Palm Tree
+
+* The state flower of Florida is the Orange Blossom 
+
+* John Glenn became the first American to orbit the Earth when he 
+  blasted off from Florida’s Cape Canaveral on February 20, 1962.
+  
+* Before he was president of the United States, 
+  General Andrew Jackson led an invasion of Seminole Indians in Spanish-controlled Florida in 1817.
+  
+* In 1944, airman and pharmacist Benjamin Green from Miami developed the first widely
+  used sunscreen to protect himself and other soldiers during World War II. 
+  He later founded the Coppertone Corporation.
+  
+  
+
 Overview
 ---------
 

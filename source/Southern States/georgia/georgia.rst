@@ -15,9 +15,28 @@ Interesting Facts
 
 * Atlanta hosted the 1996 Olympics
 
-* Georgia is the largest state east of the Mississippi River
+* Georgia is the largest state east of the Mississippi River at 59,425 square miles
 
 * There are 350 species of birds in Georgia
+
+* The state motto of Georgia is Wisdom, Justice and Moderation
+
+* The state tree of Georgia is the Live Oak
+
+* The state bird of Georgia is the Brown Thrasher
+
+* Georgia was the first of 10 states to vote against ratification of the 19th Amendment, 
+  giving women the right to vote.
+  
+* Georgia is the country’s number-one producer of peanuts, pecans and peaches,
+  and vidalia onions
+  
+* Coca-Cola was invented in Atlanta in 1886.
+
+* In 1957, Martin Luther King, Jr. and other civil rights advocates formed
+  the Southern Christian Leadership Conference (SCLC) in Atlanta. 
+  
+* The state flower of Georgia is known as the Cherokee Rose
 
 Overview
 ---------
