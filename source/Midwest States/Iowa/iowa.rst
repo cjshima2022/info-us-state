@@ -17,6 +17,10 @@ Interesting Facts
 
 * More than 25 percent of the state’s electricity comes from wind power. 
 
+* The highest double track railroad bridge in the world, the Kate Shelley Bridge, is located at Boone.
+
+* John Wayne was born in Winterset on May 26, 1907. he was a famous actor
+
 History of Iowa
 -----------------
 
