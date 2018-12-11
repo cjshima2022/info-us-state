@@ -28,7 +28,7 @@ Interesting Facts
 * Georgia was the first of 10 states to vote against ratification of the 19th Amendment, 
   giving women the right to vote.
   
-* Georgia is the country’s number-one producer of peanuts, pecans and peaches,
+* Georgia is the country's number-one producer of peanuts, pecans and peaches,
   and vidalia onions
   
 * Coca-Cola was invented in Atlanta in 1886.

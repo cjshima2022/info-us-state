@@ -33,8 +33,8 @@ Interesting Facts
   is the tallest of all state capitol buildings.
   
 * Louisiana is known for Hurricane Katrina,  The most destructive natural disaster in U.S. history,
-  it resulted in more than 1,800 deaths—over 1,500 of which were in 
-  Louisiana—and close to $100 billion in damages.
+  it resulted in more than 1,800 deaths over 1,500 of which were in 
+  Louisiana and close to $100 billion in damages.
 
 Overview
 ---------

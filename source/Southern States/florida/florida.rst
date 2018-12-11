@@ -28,7 +28,7 @@ Interesting Facts
 * The state flower of Florida is the Orange Blossom 
 
 * John Glenn became the first American to orbit the Earth when he 
-  blasted off from Florida’s Cape Canaveral on February 20, 1962.
+  blasted off from Florida's Cape Canaveral on February 20, 1962.
   
 * Before he was president of the United States, 
   General Andrew Jackson led an invasion of Seminole Indians in Spanish-controlled Florida in 1817.
@@ -37,8 +37,6 @@ Interesting Facts
   used sunscreen to protect himself and other soldiers during World War II. 
   He later founded the Coppertone Corporation.
   
-  
-
 Overview
 ---------
 
