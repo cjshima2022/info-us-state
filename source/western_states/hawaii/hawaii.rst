@@ -32,7 +32,20 @@ Interesting Facts
 * Hawaii's population center is the most isolated
   on Earth.
   
-* The nickname for Hawaii is the **Aloha State**. 
+* The nickname for Hawaii is the **Aloha State**.
+
+* The size of Hawaii is 10,926 square miles.
+
+* The motto for Hawaii is "The life of the land
+  is perpetuated in righteousness."
+  
+* The state tree of Hawaii is the **Kukui (Candlenut)**
+  tree.
+  
+* The state flower of Hawaii is the **Pua Aloalo (Yellow
+  Hibiscus)**.
+  
+* The state bird of Hawaii is the **Nene** bird.
 
 Overview
 ---------

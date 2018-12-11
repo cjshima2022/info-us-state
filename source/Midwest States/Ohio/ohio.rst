@@ -1,21 +1,26 @@
 Ohio
 ==========
 
+ .. figure:: ohio.jpg
+    :width: 70%
+
 Interesting Facts
 -----------------
-* Iowa is the only state in the united states that has two of it's borders covered by rivers
 
-* Iowa is also most commonly refered to as the corn state, mostly because of 
-  the fact that it has the higest corn production in the united states.
+* Cleveland boasts America's first traffic light. It began on Aug. 5, 1914.
 
-* In 2011, famers harvested more than 2.3 billion bushels of corn.
+* The Wright Brothers are acknowledged as inventors of the first airplane they were from Dayton.
 
-History of Iowa
+* Ohio invented the first hot dog in 1900.
+
+* In 2017 50% of the United States population lives within a 500 mile radius of Columbus. 
+
+History of Ohio
 -----------------
 
-* When Iowa became a state in 1846, 
-  its capital was Iowa City but the Des Moines became 
-  the new capital in 1857 because it was more central then iowa city
+* Ohio became a state on March 1, 1803, but there was no formal 
+  declaration that was made until 1953 when President Dwight D. Eisenhower
+  officiallty signed the documents makeing it a state.
 
 Overview
 ---------

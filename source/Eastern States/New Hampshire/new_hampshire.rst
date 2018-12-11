@@ -24,6 +24,15 @@ Interesting Facts
   since it is the only state which doesn't 
   require seatbelt or motorcycle helmets.
 * The first legal lottery was launched in 1963 in New Hampshire.
+* Dover was settled in 1623. It is the oldest permanent settlement in New 
+  Hampshire. 
+* The first free public library in the United States was established at 
+  Peterborough in 1833.
+* The first capital city of New Hampshire was in Exeter.
+* Captain John Smith named New Hampshire after the town of Hampshire, England.
+* New Castle is the smallest town in New Hampshire. It covers .8 square mile, 
+  or 512 acres. The town is composed of one large island and several smaller
+  islands, and serves as a scenic residential and recreational community. 
 
 
 Overview

@@ -23,7 +23,18 @@ Interesting Facts
 * Maine state bird name is *The Chickadee*
 * Maine state tree is *The White Pine*
 * Maine state fish is *Landlocked Salmon*
-
+* Maine's earliest inhabitants were descendants of Age hunters.
+* Maine produces 99% of all the blueberries in the country making it the single
+  largest producer of blueberries in the United States.
+* The skating scene in the movie *"The Preacher's Wife"* was filmed in Deering
+  Oaks Park in Portland. 
+* Maine lies farther northeast than any other state. 
+* Maine lobsters have won international fame for their flavor and contribution
+  to the culinary world. 
+* The White Mountain National Forest covers nearly 800,000 acres, the forest
+  covers a landscape ranging from hardwood forests to the largest alpine area
+  east of the Rockey Mountains.
+  
 Overview
 --------
 

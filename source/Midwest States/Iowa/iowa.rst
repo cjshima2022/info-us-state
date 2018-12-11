@@ -1,14 +1,21 @@
 Iowa
 ==========
 
+ .. image:: iowa.png
+    :width: 70%
+
 Interesting Facts
 -----------------
 * Iowa is the only state in the united states that has two of it's borders covered by rivers
 
 * Iowa is also most commonly refered to as the corn state, mostly because of 
   the fact that it has the higest corn production in the united states.
-
+  
 * In 2011, famers harvested more than 2.3 billion bushels of corn.
+
+* The state was named after the Ioway people, which is a Native American tribe that once inhabited the area.
+
+* More than 25 percent of the state’s electricity comes from wind power. 
 
 History of Iowa
 -----------------
