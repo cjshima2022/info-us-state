@@ -28,6 +28,11 @@ Interesting Facts
 * The *Lady Bug* is Delaware's official state bug.
 * The 87-foot Fenwick Island Lighthouse was painted in 1880 for a total cost of 
   $5.00. 
+* Delaware shares a semi-circular border with Pennsylvania. The border was 
+  drawn at the time of the original land grants to William Penn from King 
+  Charles 2 and the Duke of York.
+* In the total area Delaware ranks 49th in the nation. It contains 1,982 
+  square miles. It is 96 miles long and varies from 9 to 35 miles in width.
 
 Overview
 ---------
