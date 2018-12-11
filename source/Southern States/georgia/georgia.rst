@@ -18,7 +18,7 @@ Interesting Facts
 
 *There are 350 species of birds in Georgia
 
- Overview
+Overview
 ---------
 
 ============== ====================================
